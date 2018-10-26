@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"important"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fi",
+				"first_img"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"ov",
+				"overflow-x\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"ra",
+				"randArray"
+			],
+			[
+				"op",
+				"open-active"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"to",
+				"toggleOpen"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"tr",
+				"translateY()"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"body",
+				"bodyClassChange"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"backgr",
+				"background-attachment"
+			],
+			[
+				"mi",
+				"minsHand"
+			],
+			[
+				"se",
+				"secondsDergees"
+			],
+			[
+				"tar",
+				"transform"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"wI",
+				"width"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"my",
+				"myFunction1"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"B",
+				"Balance"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cli",
+				"clients"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/header.php",
+			"settings":
+			{
+				"buffer_size": 11793,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dimarev/Desktop/cms/index.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/style.css",
+		"/E/Divi-child/style.css",
+		"/E/Divi-child/app.js",
+		"/E/wordpress/wp-content/themes/Divi-child/header.php",
+		"/C/Users/Dimarev/Desktop/page.php",
+		"/E/Divi-child/page.php",
+		"/E/wordpress/wp-admin/admin-header.php",
+		"/E/wordpress/wp-admin/widgets.php",
+		"/E/wordpress/index.php",
+		"/E/wordpress/wp-content/plugins/wp-migrate-db/wp-migrate-db.php",
+		"/E/wordpress/wp-admin/admin-functions.php",
+		"/E/wordpress/wp-admin/admin.php",
+		"/E/wordpress/wp-admin/index.php",
+		"/C/Users/Dimarev/Downloads/Testimonials.json",
+		"/C/Apache24/htdocs/info.php",
+		"/E/Divi-child/fos-functions.php",
+		"/E/wordpress/wp-content/themes/Divi-child/page.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/fos-functions.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/E/Divi-child/functions.php",
+		"/C/Users/Dimarev/my-first-app/angular.json",
+		"/E/Divi-child/header.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/class-fusion-widget-vertical-menu.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/class-fusion-widget-recent-works.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/widget-about.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/widgets.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/theme-widgets.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/class-fusion-widget-ad-125-125.php",
+		"/C/Users/Dimarev/Desktop/jQuery-Plugin-For-Lazy/src/jqlight.lazyloadxt.js",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/custom.js",
+		"/C/Users/Dimarev/Desktop/jQuery-Plugin-For-Lazy/libs/jquery/jquery.js",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/lazy_loading.php",
+		"/C/Users/Dimarev/Desktop/jQuery-Plugin-For-Lazy/lazyloadxt.jquery.json",
+		"/C/Users/Dimarev/Desktop/jQuery-Plugin-For-Lazy/src/jquery.lazyloadxt.html.js",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/wp-mail.php",
+		"/C/Users/Dimarev/Desktop/lazy-load/lazy_loading.php",
+		"/C/Users/Dimarev/Desktop/lazy-load/js/custom.js",
+		"/C/Users/Dimarev/my-first-app/src/main.ts",
+		"/C/Users/Dimarev/Desktop/tst.html",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/app.js",
+		"/C/Users/Dimarev/Desktop/header.php",
+		"/C/Users/Dimarev/style.css",
+		"/C/xampp/htdocs/contact_form/handler.php",
+		"/C/Users/Dimarev/Desktop/php/ReusableForms ReusableForms",
+		"/C/Users/Dimarev/Desktop/php/php-contact-form-code/handler.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Dimarev/Desktop/php/php-contact-form-code/form.css",
+		"/C/Users/Dimarev/Desktop/php/php-contact-form-code/form.js",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/wp-config-sample.php",
+		"/C/Users/Dimarev/Desktop/wp_test/wp_test.html",
+		"/C/Users/Dimarev/Desktop/wp_test.html",
+		"/C/Users/Dimarev/Desktop/fe2.html",
+		"/C/Users/Dimarev/Desktop/jqTable.html",
+		"/C/Users/Dimarev/myapp/package.json",
+		"/C/Users/Dimarev/myapp/node_modules/express/lib/express.js",
+		"/C/Users/Dimarev/myapp/index.js",
+		"/C/Users/Dimarev/myapp/public/bundle",
+		"/C/Users/Dimarev/myapp/webpack.config.js",
+		"/C/Users/Dimarev/myapp/index.html",
+		"/C/Users/Dimarev/myapp/server.js",
+		"/C/Users/Dimarev/sample-app/res.send('Hello",
+		"/C/Users/Dimarev/repo/myapp/index.js",
+		"/C/Users/Dimarev/myapp/package-lock.json",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/fos-functions 2.php",
+		"/C/Users/Dimarev/Desktop/bulls&cows.html",
+		"/C/Users/Dimarev/Downloads/task/README.md",
+		"/C/Users/Dimarev/Desktop/ddd-contact-us.css",
+		"/C/Users/Dimarev/Desktop/ddd-landing.css",
+		"/C/Users/Dimarev/Desktop/ddd-about-us.css",
+		"/C/Users/Dimarev/AppData/Local/Temp/Rar$DIa5792.46968/ddd-landing.css",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi-child/style.css",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi-child/app.js",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi-child/fos-functions.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/chat.js",
+		"/C/Users/Dimarev/Desktop/jsjs.html",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/theme-customizer.js",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi/page.php",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi/header.php",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/index.php",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi-child/chat.js",
+		"/C/Users/Dimarev/Desktop/FosWidgets/chat.js",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Dimarev/Desktop/free-catering-divi-layout-18-jan-2018/catering.css",
+		"/C/Users/Dimarev/Desktop/wordpress/wp-content/themes/Divi/functions.php",
+		"/C/Users/Dimarev/Desktop/Starter/app.js",
+		"/C/Users/Dimarev/Desktop/FE2_FINAL -.html",
+		"/C/Users/Dimarev/Desktop/Divi-child/style.css",
+		"/C/Users/Dimarev/Desktop/Divi-child/functions.php",
+		"/C/Users/Dimarev/Desktop/googleSearch.html",
+		"/C/Users/Dimarev/Desktop/js/flexPanelsGalery.html",
+		"/C/Users/Dimarev/Desktop/formating.php",
+		"/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/formatting.php",
+		"/C/Users/Dimarev/Desktop/FD_Sktchd/CUSTOMIZER SETTINGS/custom.css",
+		"/C/Users/Dimarev/Desktop/googleSearch",
+		"/C/Users/Dimarev/Desktop/Laundry-Product-download/laundry.css",
+		"/C/Users/Dimarev/Desktop/FD_Studiyow/ALL PAGE LAYOUT/home-css.txt",
+		"/C/Users/Dimarev/Downloads/tipico/working_directory/index.html",
+		"/C/Users/Dimarev/Downloads/tipico/working_directory/style.css",
+		"/C/Users/Dimarev/Desktop/js/flexPanelsGalery",
+		"/C/Users/Dimarev/Desktop/Themes/Divi/includes/fos-functions.php",
+		"/C/Users/Dimarev/Downloads/tipico/working_directory/images/tipico-logo.svg",
+		"/C/Users/Dimarev/Desktop/unzip-me-driving-school-page-layout/driving-school-layout-css.css",
+		"/C/Users/Dimarev/Downloads/tipico/working_directory/.DS_Store",
+		"/C/Users/Dimarev/Desktop/js/cssTest.html",
+		"/C/Users/Dimarev/Desktop/js/drums.html",
+		"/C/Users/Dimarev/Desktop/3d-model-using-three.js-master/index.html",
+		"/C/Users/Dimarev/Desktop/Themes/Avada/includes/fos-functions.php",
+		"/C/Users/Dimarev/Desktop/js/clock.html",
+		"/C/Users/Dimarev/Desktop/drums.html",
+		"/C/Users/Dimarev/Desktop/drums",
+		"/C/Users/Dimarev/Downloads/01 - JavaScript Drum Kit.mp4.crdownload",
+		"/C/Users/Dimarev/Desktop/Exhibition/js/main.js",
+		"/C/Users/Dimarev/Desktop/Exhibition/index.html",
+		"/C/Users/Dimarev/Desktop/New folder/css3d.html",
+		"/C/Users/Dimarev/Desktop/Divi/functions.php",
+		"/C/xampp/htdocs/site/x2/index.html",
+		"/C/xampp/htdocs/site/x2/anim.js",
+		"/C/xampp/htdocs/site/x2/style.css",
+		"/C/Users/Dimarev/Desktop/Coffee House Layout for Divi.json",
+		"/C/xampp/htdocs/site/config.php",
+		"/C/xampp/htdocs/site/testmail.php",
+		"/C/xampp/htdocs/site/forgot-password/index.php",
+		"/C/xampp/htdocs/site/login.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"phone",
+			"get_field",
+			"acf",
+			"lesta",
+			"acf",
+			"charset",
+			"}",
+			"radio3",
+			"width:100%; max-height: 230px;",
+			"class=\"col-md-4\"",
+			"img_snow.jpg",
+			"img_nature.jpg",
+			"submit",
+			"ddd_contact_us_footer",
+			"ddd_about_us_history",
+			".et_pb_blurb_5.et_pb_blurb",
+			"#33d2d6",
+			"before",
+			"$thMessage",
+			"phone",
+			"place_name",
+			"place",
+			"http://dev-pashev.1dxr.com/wp70",
+			"mail",
+			"brand",
+			";\n",
+			"wp129",
+			"service",
+			"is",
+			"background-color:red;",
+			"anim",
+			"example",
+			"leftBanerAnim",
+			"example1",
+			"sendmail",
+			"member_name",
+			"blog_samples",
+			"#top-menu",
+			"obj",
+			"Div2",
+			"Div1",
+			"myFunction",
+			"myBooks",
+			"mail",
+			"avatar",
+			"</li>",
+			"https://www.hampstead-cleaners.co.uk/",
+			"class=\"menu-item menu-item-type-post_type menu-item-object-page",
+			"style=\"box-sizing: border-box; font-family: Arial, Arial, Tahoma, sans-serif; font-weight: 500; line-height: 1.1; color: #105268; margin: 20px 0px; font-size: 16px; background-color: #ffffff;",
+			"style=\"box-sizing: border-box;\"",
+			"style=\"box-sizing: border-box; margin: 0px 0px 8.5px;\"",
+			"none",
+			".three",
+			".btn-2",
+			"#menu-secondary-menu",
+			".menu-secondary-menu",
+			"btn",
+			"btn-cont",
+			"options",
+			"CO.UK",
+			"http://",
+			"https://",
+			"www.",
+			"http://www.",
+			"wp-color-result",
+			"<?php /*",
+			"*/ ?>",
+			"?>",
+			"<?php",
+			"btn-2",
+			" style=\"font-size: 12.16px;\"",
+			"#",
+			"style=\"font-size: 12.16px;",
+			"style=\"font-size: 12.16px;\"",
+			"lang=\"en-US\"",
+			"class=\"western\"",
+			"http://dev-pashev.1dxr.com/wp21",
+			"https://dev-pashev.1dxr.com",
+			"/wp21",
+			"/wp21/wp21/",
+			"www.dev-pashev.1dxr.com",
+			"www.paddington-cleaners.co.uk",
+			"button",
+			"ahref",
+			"button class=\"menu__link\" onclick=\"window.location.",
+			" <li class=\"menu__item\">",
+			"   </li>",
+			"<button class=\"menu__link\">Menu Item</button>",
+			"span class=\"bold\" data-redactor=\"verified\"",
+			"<p>",
+			"strong",
+			"<div class=\"row\">",
+			"  </div>",
+			"<div class=\"cell\">",
+			"</li>",
+			"<li>",
+			"</span>",
+			"<span lang=\"en-US\">",
+			"</section>",
+			"</div>",
+			"</section>",
+			"</div>",
+			"</section>",
+			"</div>",
+			"</section>",
+			"</div>",
+			"</section>",
+			"</div>",
+			"</section>",
+			"</div>",
+			"</span>",
+			"<span style=\"color: #0070b8; border-bottom: 1px solid #9fb0b7;\">",
+			"</div>",
+			"</section>",
+			"style=\"color: #333333;",
+			"</span>",
+			"</section>",
+			"<span lang=\"en-US\">",
+			"</div>",
+			"</span>",
+			"<span lang=\"en-US\">",
+			"</div>",
+			"</section>",
+			"</span>",
+			"<span lang=\"en-US\">",
+			"class=\"service_item \"",
+			"https://web.archive.org/web/20170930103826/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"width:200px; max-height: 200px;",
+			"class=\"col-md-3\"",
+			"C:/Users/Dimarev/Downloads/FE2_Final_2018-1/img/gallery1.jpg",
+			"C:/Users/Dimarev/Downloads/FE2_Final_2018-1/img/gallery2.jpg",
+			"http://www.randys-locksmiths-barnet.co.uk",
+			"wp130",
+			"",
+			"leftBanerAnim",
+			"leftBanerAnimOut",
+			"leftBanerAnimIn",
+			"leftBanerAnim",
+			"name",
+			"mydb",
+			"#fMenu",
+			"fMenu",
+			"clients",
+			"myDIV2",
+			"myDIV",
+			"showSidebar ",
+			"clients",
+			"",
+			"http://dev-pashev.1dxr.com/wp117/",
+			"",
+			".nav a",
+			".nav li",
+			".nav",
+			"#menu-secondary-menu",
+			"menu-secondary-menu a",
+			"menu-secondary-menu ul",
+			"co.uk",
+			"",
+			"<?php",
+			"?>",
+			"*/ ?>",
+			"<?php /*",
+			"btn-draw",
+			"",
+			"http://dev-pashev.1dxr.com/wp22/",
+			"",
+			"https://www.paddington-cleaners.co.uk",
+			"http://dev-pashev.1dxr.com",
+			"/wp21/",
+			"/wp21",
+			"dev-pashev.1dxr.com/wp21",
+			"www.dev-pashev.1dxr.com/wp21",
+			"a",
+			"a href",
+			"a",
+			"",
+			"<button class=\"menu__link\" onclick=\"window.location.href = 'http://dev-pashev.1dxr.com/wp20/about-us/';\">Menu Item</button>",
+			"b",
+			"<p style=\"text-align: center; color: #fff; font-size: 20px; line-height: 30px;\">",
+			"b",
+			"",
+			"container1",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"b",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"b",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"http://www.owenslocksmithsstratford.co.uk",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"b",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"b",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"b",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"b",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			"",
+			"<span class=\"brand-color\"><strong>{BRAND_NAME}</strong></span>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Dimarev/AppData/Local/Temp/fz3temp-2/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
